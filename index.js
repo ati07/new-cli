@@ -1,2 +1,10 @@
 #!/usr/bin/env node
-console.log("mhj")
+const clearConsole = require('clear-any-console');
+clearConsole()
+console.log(`
+    
+    Atiurrahman Ansari
+
+    I am a Full Stack developer
+    
+    `)

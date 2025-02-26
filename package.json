@@ -1,7 +1,10 @@
 {
-    "name":"atiur",
-    "version":"1.0.0",
-    "bin":{
-        "atiur":"index.js"
+    "name": "atiur",
+    "version": "1.0.1",
+    "bin": {
+        "atiur": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.3"
     }
 }
