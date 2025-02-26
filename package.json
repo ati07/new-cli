@@ -1,0 +1,7 @@
+{
+    "name":"atiur",
+    "version":"1.0.0",
+    "bin":{
+        "atiur":"index.js"
+    }
+}
