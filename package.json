@@ -1,6 +1,6 @@
 {
     "name": "atiur",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "description": "Get to know CLI use npx atiur",
     "type": "commonjs",
     "bin": {
@@ -13,8 +13,8 @@
         "atiur",
         "npm atiur"
     ],
-    "license":"MIT",
-    "main":"index.js",
+    "license": "MIT",
+    "main": "index.js",
     "repository": "ati07/new-cli",
     "author": {
         "name": "Atiur"
