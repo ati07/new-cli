@@ -56,3 +56,9 @@ This works similarly to: npm uninstall -g <CLI-Name>
  - If we want to incrase the major version then need to run npm version major, it will increase by 1 (e.g 1.0.0 -> 2.0.0)
 
 - And whenever we want to publish the CLI then we need to update the version otherwise it will not publish on npmjs.
+
+
+
+Lesson 14
+- We can show our package.json data in console by requiring it. So whenever CLI will run the detail of packages will shown on console. To improve the user experince, we can use cli-welcome module to show the welcoming messages with CLI detail.
+- In this lesson I learned that we can also add readme file and add some attributes in packages.json to make changes in npmjs.com.
