@@ -5,7 +5,6 @@
 ## Usage
 > To use this CLI run the following command.
 
-```
-sh
+```sh
 npx atiur
 ```
