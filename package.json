@@ -1,6 +1,6 @@
 {
     "name": "atiur",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Get to know CLI use npx atiur",
     "type": "commonjs",
     "bin": {
@@ -9,5 +9,8 @@
     "dependencies": {
         "cli-welcome": "^2.2.0"
     },
-    "keywords": ["atiur","npm atiur"]
+    "keywords": [
+        "atiur",
+        "npm atiur"
+    ]
 }
