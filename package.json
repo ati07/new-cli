@@ -8,5 +8,6 @@
     },
     "dependencies": {
         "cli-welcome": "^2.2.0"
-    }
+    },
+    "keywords": ["atiur","npm atiur"]
 }
