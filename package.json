@@ -12,5 +12,11 @@
     "keywords": [
         "atiur",
         "npm atiur"
-    ]
+    ],
+    "license":"MIT",
+    "main":"index.js",
+    "repository": "ati07/new-cli",
+    "author": {
+        "name": "Atiur"
+    }
 }
