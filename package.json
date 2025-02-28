@@ -6,9 +6,22 @@
     "bin": {
         "atiur": "index.js"
     },
+    "scripts": {
+        "test": "node test.js",
+        "format": "prettier --write \"./**/*.{js,json}\""
+    },
+    "files": [
+        "index.js"
+    ],
     "dependencies": {
+        "atiur-cli-alerts": "^3.0.4",
         "chalk": "^2.2.2",
-        "cli-welcome": "^2.2.0"
+        "cli-check-node": "^1.3.4",
+        "cli-handle-unhandled": "^1.1.2",
+        "cli-welcome": "^2.2.0",
+        "conduct": "^4.0.0",
+        "log-symbols": "^2.2.0",
+        "prettier": "^3.5.2"
     },
     "keywords": [
         "atiur",
